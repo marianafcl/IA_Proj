@@ -6,5 +6,3 @@ Realizado por:
       Carlos Carvalho,
           
             IST - Inteligência Artificial - 2017/18
-
-#END
