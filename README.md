@@ -1,6 +1,10 @@
 # IA_Proj
-Authors:
 
-Carlos Carvalho
+Realizado por:
+    
+      Mariana Loureiro
+      Carlos Carvalho,
+          
+            IST - Inteligência Artificial - 2017/18
 
-Mariana Loureiro
+#END
